@@ -1,5 +1,5 @@
 ## Dindory GitHub
-안녕하세요! 개발자 취준생 Dindory입니다. 
+안녕하세요! 개발자 취준생 Jiyeon입니다. 
 <br />
 <br />
 <br />
