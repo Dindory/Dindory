@@ -1,37 +1,42 @@
-## Dindory GitHub
-안녕하세요! 개발자 취준생 Jiyeon입니다. 
-<br />
-<br />
-<br />
-## My values
-☘️ 성장: 기술적인 성취뿐 아니라 내면의 성장과 성찰을 중시합니다.<br />
-🌟 철학: 단순한 결과물이 아닌, 그 안의 의미와 가치를 고민합니다.<br />
-☁️ 이해: 깊은 이해를 바탕으로 문제를 해결하기 위해 노력합니다.<br />
-<br />
-<br />
-<br />
-## How i work
-협업을 통해 함께 결과물을 만들어내는 과정에서 행복함을 느낍니다.
-무엇이든 기록하고 생각을 적어나가는 것을 좋아합니다.
-조용한 장소에서 키보드 두드리는 소리를 들으며 코딩하는 것을 좋아합니다. 
-<br />
-<br />
-<br />
-## Skills
-#### I use it often.
-<div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/ts-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-
-#### I've used it before.
-<div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-</div>
-<br />
-<br />
-<br />
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=240&text=Jiyeon,%20Frontend%20Developer&animation=fadeIn&fontColor=000000&fontSize=40" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! 프론트엔드 개발자 송지연입니다.  </h2>  
+🤝 협업: 소통과 협업을 바탕으로 팀과 함께 문제를 분석하고 해결하는 개발 문화를 중요하게 생각합니다.<br />
+💡 이해: 요구사항 정리와 테크 스펙 작성, 데이터 흐름과 컴포넌트 구조 설계 등 깊은 이해를 바탕으로 개발합니다.<br />
+⚡ 성장: 기능 구현을 넘어 성능 개선과 사용자 경험 향상을 통해 더 나은 서비스를 만드는 개발을 지향합니다.<br />
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
+          <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=StyledComponents&logoColor=white">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+          <img src="https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge&logo=Eslint&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+          <br/></div>
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=mailto:22jysong@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:22jysong@gmail.com"> </a>
+         <a href=...> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=..."> </a>
+         <a href=...> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=..."> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Jiyeon&bg_color=180,27a617,00000000&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyeon&layout=compact&bg_color=180,27a617,00000000&title_color=000000&text_color=000000"
+           /> </div> 
+    </div>
 Copyright ⓒ Dindory
